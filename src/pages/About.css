@@ -10,7 +10,7 @@
 
 .left {
   left: 0;
-  background-color: #0f62fe;
+  background-color: #61ad7cfe;
 }
 
 .right {
@@ -27,7 +27,7 @@
 
 .name_title {
   font-size: 48px;
-  color: black;
+  color: rgb(73, 71, 71);
   text-align: left;
   padding-bottom: 20px;
 }
